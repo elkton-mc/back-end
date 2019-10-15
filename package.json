@@ -1,0 +1,19 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "🚫 Note: All lines that start with 🚫 are instructions and should be deleted before this is posted to your portfolio. This is intended to be a guideline. Feel free to add your own flare to it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elkton-mc/back-end.git"
+  },
+  "author": "Tico S. Thepsourinthone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elkton-mc/back-end/issues"
+  },
+  "homepage": "https://github.com/elkton-mc/back-end#readme"
+}
